@@ -1,0 +1,70 @@
+Absorber, bumper - бампер
+Accelerator - акселератор
+Accumulator, battery - аккумул€тор
+Armrest - подлокотник
+Back door - задн€€ дверь
+Bonnet, hood - капот
+Brake - тормоз
+Brake fluid - тормозна€ жидкость
+Brake light - стоп-сигнал
+Bulbs - лампы
+Cab - кабина
+Carburet(t)or - карбюратор
+Chassis - шасси
+Clutch - сцепление
+Cooling system - система охлаждени€
+Crankshaft - коленчатый вал
+Cylinder - цилиндр
+Diesel - дизельное топливо
+Driver's license - водительское удостоверение
+Electrical system - электрооборудование
+Engine - двигатель
+Exhaust pipe - выхлопна€ труба
+Fender - крыло
+Filling station - ј«—
+Front door - передн€€ дверь
+Garage - гараж
+Gear - передача
+Gear-change shift lever - рычаг переключени€ передач
+Handbrake - ручной тормоз
+Hatchback - хэчбэк
+Headlights - фары
+Highway - автострада
+Horn - сигнал
+Hubcap - диск колеса
+Ignition - зажигание
+Jack - домкрат
+License plate - номерной знак
+Lorry, truck - грузовик
+Oil - масло
+Oil pump - масл€ный насос
+Parking light - габаритные огни
+Pedal - педаль
+Petrol - бензин
+Pump - насос
+Radiator - радиатор
+Road - дорога
+Screwdriver - отвертка
+Seat belt - ремень безопастности
+Sedan - седан
+Service station - станци€ тех обслуживани€
+Signal - указатель поворота
+Spanner - ключ
+Spare parts - запчасти
+Spark plug - свеча
+Speedometer - спидометр
+Spring - рессора
+Starter - стартер
+Steering-wheel - рулевое колесо
+Suspension - подвеска
+Tail-ligh - задний фонарь
+Tank - бензобак
+Tire - шина
+Tool - инструмент
+Trailer - прицеп
+Transmission; gear box - коробка передач
+Trunk - багажник
+Van - автофургон
+Wheel - колесо
+Window roller - стеклоподъЄмник
+Windscreen; windshield - ветровое стекло

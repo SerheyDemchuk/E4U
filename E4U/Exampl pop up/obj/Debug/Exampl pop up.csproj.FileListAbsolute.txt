@@ -1,0 +1,104 @@
+c:\users\сергей\documents\visual studio 2015\Projects\Exampl pop up\Exampl pop up\bin\Debug\Exampl pop up.exe.config
+c:\users\сергей\documents\visual studio 2015\Projects\Exampl pop up\Exampl pop up\obj\Debug\Exampl_pop_up.Form1.resources
+c:\users\сергей\documents\visual studio 2015\Projects\Exampl pop up\Exampl pop up\obj\Debug\Exampl_pop_up.Properties.Resources.resources
+c:\users\сергей\documents\visual studio 2015\Projects\Exampl pop up\Exampl pop up\obj\Debug\Exampl pop up.csproj.GenerateResource.Cache
+c:\users\сергей\documents\visual studio 2015\Projects\Exampl pop up\Exampl pop up\bin\Debug\Exampl pop up.exe
+c:\users\сергей\documents\visual studio 2015\Projects\Exampl pop up\Exampl pop up\bin\Debug\Exampl pop up.pdb
+c:\users\сергей\documents\visual studio 2015\Projects\Exampl pop up\Exampl pop up\obj\Debug\Exampl pop up.exe
+c:\users\сергей\documents\visual studio 2015\Projects\Exampl pop up\Exampl pop up\obj\Debug\Exampl pop up.pdb
+c:\users\сергей\documents\visual studio 2015\Projects\Exampl pop up\Exampl pop up\obj\Debug\Exampl_pop_up.Form2.resources
+C:\Users\Сергей\Documents\Visual Studio 2015\Projects\Exampl pop up\Exampl pop up\obj\Debug\Exampl pop up.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Exampl pop up\Exampl pop up\bin\Debug\Exampl pop up.exe.config
+C:\Users\Сергей\Desktop\Exampl pop up\Exampl pop up\obj\Debug\Exampl pop up.exe
+C:\Users\Сергей\Desktop\Exampl pop up\Exampl pop up\obj\Debug\Exampl pop up.pdb
+C:\Users\Сергей\Desktop\Exampl pop up\Exampl pop up\bin\Debug\Exampl pop up.exe
+C:\Users\Сергей\Desktop\Exampl pop up\Exampl pop up\bin\Debug\Exampl pop up.pdb
+C:\Users\Сергей\Desktop\Exampl pop up\Exampl pop up\obj\Debug\Exampl pop up.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Exampl pop up\Exampl pop up\obj\Debug\Exampl_pop_up.Form1.resources
+C:\Users\Сергей\Desktop\Exampl pop up\Exampl pop up\obj\Debug\Exampl_pop_up.Form2.resources
+C:\Users\Сергей\Desktop\Exampl pop up\Exampl pop up\obj\Debug\Exampl_pop_up.Properties.Resources.resources
+C:\Users\Сергей\Desktop\Exampl pop up\Exampl pop up\obj\Debug\Exampl pop up.csproj.GenerateResource.Cache
+F:\Exampl pop up\Exampl pop up\bin\Debug\Exampl pop up.exe.config
+F:\Exampl pop up\Exampl pop up\obj\Debug\Exampl pop up.exe
+F:\Exampl pop up\Exampl pop up\obj\Debug\Exampl pop up.pdb
+E:\Локальный диск Е\Exampl pop up\Exampl pop up\obj\Debug\Exampl_pop_up.Form1.resources
+E:\Локальный диск Е\Exampl pop up\Exampl pop up\obj\Debug\Exampl_pop_up.Form2.resources
+E:\Локальный диск Е\Exampl pop up\Exampl pop up\obj\Debug\Exampl_pop_up.Properties.Resources.resources
+E:\Локальный диск Е\Exampl pop up\Exampl pop up\obj\Debug\Exampl pop up.csproj.GenerateResource.Cache
+E:\Локальный диск Е\Exampl pop up\Exampl pop up\obj\Debug\Exampl_pop_up.Form0.resources
+E:\Локальный диск Е\Exampl pop up\Exampl pop up\obj\Debug\Exampl_pop_up.frm_login.resources
+E:\Локальный диск Е\Exampl pop up\Exampl pop up\bin\Debug\E4U.mdf
+E:\Локальный диск Е\Exampl pop up\Exampl pop up\bin\Debug\E4U_log.ldf
+E:\Локальный диск Е\Exampl pop up\Exampl pop up\obj\Debug\Exampl_pop_up.frm_reg.resources
+E:\Локальный диск Е\Exampl pop up\Exampl pop up\obj\Debug\Exampl pop up.csprojResolveAssemblyReference.cache
+E:\Локальный диск Е\Exampl pop up\Exampl pop up\bin\Debug\Transitions.dll
+E:\Локальный диск Е\Exampl pop up\Exampl pop up\bin\Debug\Transitions.pdb
+E:\Локальный диск Е\Exampl pop up\Exampl pop up\bin\Debug\EntityFramework.dll
+E:\Локальный диск Е\Exampl pop up\Exampl pop up\bin\Debug\EntityFramework.SqlServer.dll
+E:\Локальный диск Е\Exampl pop up\Exampl pop up\bin\Debug\System.Data.SQLite.dll
+E:\Локальный диск Е\Exampl pop up\Exampl pop up\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Локальный диск Е\Exampl pop up\Exampl pop up\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Локальный диск Е\Exampl pop up\Exampl pop up\bin\Debug\EntityFramework.xml
+E:\Локальный диск Е\Exampl pop up\Exampl pop up\bin\Debug\EntityFramework.SqlServer.xml
+E:\Локальный диск Е\Exampl pop up\Exampl pop up\bin\Debug\System.Data.SQLite.xml
+E:\Локальный диск Е\Exampl pop up\Exampl pop up\obj\Debug\Exampl_pop_up.users_data.resources
+E:\Локальный диск Е\Exampl pop up\Exampl pop up\bin\Debug\English For You.exe.config
+E:\Локальный диск Е\Exampl pop up\Exampl pop up\bin\Debug\English For You.exe
+E:\Локальный диск Е\Exampl pop up\Exampl pop up\bin\Debug\English For You.pdb
+E:\Локальный диск Е\Exampl pop up\Exampl pop up\obj\Debug\English For You.exe
+E:\Локальный диск Е\Exampl pop up\Exampl pop up\obj\Debug\English For You.pdb
+E:\Локальный диск Е\Exampl pop up\Exampl pop up\obj\Debug\Exampl_pop_up.settings.resources
+E:\Локальный диск Е\Exampl pop up_before testForm\Exampl pop up\bin\Debug\English For You.exe.config
+E:\Локальный диск Е\Exampl pop up_before testForm\Exampl pop up\obj\Debug\English For You.exe
+E:\Локальный диск Е\Exampl pop up_before testForm\Exampl pop up\obj\Debug\English For You.pdb
+E:\Локальный диск Е\Exampl pop up_before testForm\Exampl pop up\bin\Debug\E4U.mdf
+E:\Локальный диск Е\Exampl pop up_before testForm\Exampl pop up\bin\Debug\E4U_log.ldf
+E:\Локальный диск Е\Exampl pop up_before testForm\Exampl pop up\bin\Debug\English For You.exe
+E:\Локальный диск Е\Exampl pop up_before testForm\Exampl pop up\bin\Debug\English For You.pdb
+E:\Локальный диск Е\Exampl pop up_before testForm\Exampl pop up\bin\Debug\EntityFramework.dll
+E:\Локальный диск Е\Exampl pop up_before testForm\Exampl pop up\bin\Debug\EntityFramework.SqlServer.dll
+E:\Локальный диск Е\Exampl pop up_before testForm\Exampl pop up\bin\Debug\System.Data.SQLite.dll
+E:\Локальный диск Е\Exampl pop up_before testForm\Exampl pop up\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Локальный диск Е\Exampl pop up_before testForm\Exampl pop up\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Локальный диск Е\Exampl pop up_before testForm\Exampl pop up\bin\Debug\Transitions.dll
+E:\Локальный диск Е\Exampl pop up_before testForm\Exampl pop up\bin\Debug\Transitions.pdb
+E:\Локальный диск Е\Exampl pop up_before testForm\Exampl pop up\bin\Debug\EntityFramework.xml
+E:\Локальный диск Е\Exampl pop up_before testForm\Exampl pop up\bin\Debug\EntityFramework.SqlServer.xml
+E:\Локальный диск Е\Exampl pop up_before testForm\Exampl pop up\bin\Debug\System.Data.SQLite.xml
+E:\Локальный диск Е\Exampl pop up_before testForm\Exampl pop up\obj\Debug\Exampl pop up.csprojResolveAssemblyReference.cache
+E:\Локальный диск Е\Exampl pop up_before testForm\Exampl pop up\obj\Debug\Exampl_pop_up.Form0.resources
+E:\Локальный диск Е\Exampl pop up_before testForm\Exampl pop up\obj\Debug\Exampl_pop_up.Form1.resources
+E:\Локальный диск Е\Exampl pop up_before testForm\Exampl pop up\obj\Debug\Exampl_pop_up.Form2.resources
+E:\Локальный диск Е\Exampl pop up_before testForm\Exampl pop up\obj\Debug\Exampl_pop_up.frm_login.resources
+E:\Локальный диск Е\Exampl pop up_before testForm\Exampl pop up\obj\Debug\Exampl_pop_up.frm_reg.resources
+E:\Локальный диск Е\Exampl pop up_before testForm\Exampl pop up\obj\Debug\Exampl_pop_up.Properties.Resources.resources
+E:\Локальный диск Е\Exampl pop up_before testForm\Exampl pop up\obj\Debug\Exampl_pop_up.settings.resources
+E:\Локальный диск Е\Exampl pop up_before testForm\Exampl pop up\obj\Debug\Exampl_pop_up.users_data.resources
+E:\Локальный диск Е\Exampl pop up_before testForm\Exampl pop up\obj\Debug\Exampl pop up.csproj.GenerateResource.Cache
+E:\Локальный диск Е\E4U - Copy\Exampl pop up\bin\Debug\English For You.exe.config
+E:\Локальный диск Е\E4U - Copy\Exampl pop up\obj\Debug\English For You.exe
+E:\Локальный диск Е\E4U - Copy\Exampl pop up\obj\Debug\English For You.pdb
+E:\Локальный диск Е\E4U - Copy\Exampl pop up\bin\Debug\E4U.mdf
+E:\Локальный диск Е\E4U - Copy\Exampl pop up\bin\Debug\E4U_log.ldf
+E:\Локальный диск Е\E4U - Copy\Exampl pop up\bin\Debug\English For You.exe
+E:\Локальный диск Е\E4U - Copy\Exampl pop up\bin\Debug\English For You.pdb
+E:\Локальный диск Е\E4U - Copy\Exampl pop up\bin\Debug\EntityFramework.dll
+E:\Локальный диск Е\E4U - Copy\Exampl pop up\bin\Debug\EntityFramework.SqlServer.dll
+E:\Локальный диск Е\E4U - Copy\Exampl pop up\bin\Debug\System.Data.SQLite.dll
+E:\Локальный диск Е\E4U - Copy\Exampl pop up\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Локальный диск Е\E4U - Copy\Exampl pop up\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Локальный диск Е\E4U - Copy\Exampl pop up\bin\Debug\Transitions.dll
+E:\Локальный диск Е\E4U - Copy\Exampl pop up\bin\Debug\Transitions.pdb
+E:\Локальный диск Е\E4U - Copy\Exampl pop up\bin\Debug\EntityFramework.xml
+E:\Локальный диск Е\E4U - Copy\Exampl pop up\bin\Debug\EntityFramework.SqlServer.xml
+E:\Локальный диск Е\E4U - Copy\Exampl pop up\bin\Debug\System.Data.SQLite.xml
+E:\Локальный диск Е\E4U - Copy\Exampl pop up\obj\Debug\Exampl pop up.csprojResolveAssemblyReference.cache
+E:\Локальный диск Е\E4U - Copy\Exampl pop up\obj\Debug\Exampl_pop_up.Form0.resources
+E:\Локальный диск Е\E4U - Copy\Exampl pop up\obj\Debug\Exampl_pop_up.Form1.resources
+E:\Локальный диск Е\E4U - Copy\Exampl pop up\obj\Debug\Exampl_pop_up.Form2.resources
+E:\Локальный диск Е\E4U - Copy\Exampl pop up\obj\Debug\Exampl_pop_up.frm_login.resources
+E:\Локальный диск Е\E4U - Copy\Exampl pop up\obj\Debug\Exampl_pop_up.frm_reg.resources
+E:\Локальный диск Е\E4U - Copy\Exampl pop up\obj\Debug\Exampl_pop_up.Properties.Resources.resources
+E:\Локальный диск Е\E4U - Copy\Exampl pop up\obj\Debug\Exampl_pop_up.settings.resources
+E:\Локальный диск Е\E4U - Copy\Exampl pop up\obj\Debug\Exampl_pop_up.users_data.resources
+E:\Локальный диск Е\E4U - Copy\Exampl pop up\obj\Debug\Exampl pop up.csproj.GenerateResource.Cache
